@@ -1,0 +1,1 @@
+SNPhoodData/inst/extdata

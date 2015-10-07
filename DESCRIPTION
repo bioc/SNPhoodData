@@ -1,0 +1,17 @@
+Package: SNPhoodData
+Title: Additional and more complex example data for the SNPhood package
+Version: 0.99.1
+Author: Christian Arnold, Judith Zaugg
+Maintainer: Christian Arnold <christian.arnold@embl.de>
+Description: This companion package for SNPhood provides some example
+        datasets of a larger size than allowed for the SNPhood package.
+        They include full and real-world examples for performing
+        analyses with the SNPhood package.
+VignetteBuilder: knitr
+Suggests: BiocStyle,knitr,rmarkdown
+Depends: R (>= 3.2)
+biocViews: ExperimentData
+License: LGPL (>= 3)
+LazyData: true
+BugReports: christian.arnold@embl.de
+NeedsCompilation: no
