@@ -1,6 +1,6 @@
 Package: SNPhoodData
 Title: Additional and more complex example data for the SNPhood package
-Version: 1.24.0
+Version: 1.25.0
 Author: Christian Arnold, Judith Zaugg
 Maintainer: Christian Arnold <christian.arnold@embl.de>
 Description: This companion package for SNPhood provides some example
